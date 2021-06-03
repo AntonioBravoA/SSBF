@@ -1,0 +1,149 @@
+
+body{
+   /* text-align: left ;*/
+    font: 14em/1;
+    
+
+}
+
+h1,h2{color: maroon;}
+
+
+#contenedor{
+    background: #ccc;
+    width: 50%;
+    border-radius: 50px 50px 50px;
+    margin: auto;
+    
+
+}
+#foto{
+   height: 300px; 
+   width:100% ;
+   margin: auto;
+   display: block;
+   border-radius: 50px 50px 50px;
+
+    
+}
+#nombrempresa{
+margin: auto;
+text-align: center;
+
+}
+
+#contenedorservicios{
+    background: #ccc;
+    width: 50%;
+    margin: auto;
+    border-radius: 50px 50px 50px;    
+
+}
+
+#fotoservicios{
+
+    height: 300px; 
+    width:100% ;
+    margin: auto;
+    display: block;
+    border-radius: 50px 50px 50px;  
+ 
+     
+}
+#nombreservicios{
+    margin: auto;
+    text-align: center;
+    
+
+}
+
+#contenedorcontacto{
+    background: #ccc;
+    width: 50%;
+    margin: auto;
+    border-radius: 50px 50px 50px;
+    
+
+}
+#nombrecontacto{
+    margin: auto;
+    text-align: center;
+    
+    
+
+}
+#fotocontacto{
+    height: 300px; 
+    width:100% ;
+    margin: auto;
+    display: block;
+    
+    border-radius: 50px 50px 50px;  
+ 
+}
+
+#contenedorac{
+    background-color: #ccc;
+    width: 50%;
+    margin: auto;
+    border-radius: 50px 50px 50px;     
+
+
+}
+
+#nombrempresaac{
+    margin: auto;
+    text-align: center;
+    
+
+}
+#fotoac{
+    height: 300px; 
+    width:50% ;
+    margin: auto;
+    display: block;
+    border-radius: 50px 50px 50px;}
+
+    #lista{
+        display: flex;
+        justify-content: space-evenly;
+
+
+    }
+
+    #contenedormenu{
+        background-color: #ccc;
+        color: maroon;
+
+
+    }
+
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*  MEDIAQUERY*/
+
+@media screen  and(max-witdh: 780px) {
+}
+@media screen and(max-witdh:600px) {
+}
+@media screen and(max-witdh:440px) 
+ {
+
+}
